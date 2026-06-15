@@ -1,0 +1,6 @@
+{
+  "name": "Mühlespiel",
+  "description": "Ein wunderschönes, interaktives Mühle-Brettspiel (Nine Men's Morris) für Mensch gegen Computer mit mehreren tollen Themes, Spielstand-Speicherung und intelligentem Computer-Gegner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
